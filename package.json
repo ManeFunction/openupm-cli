@@ -4,7 +4,7 @@
   "preferGlobal": true,
   "description": "openupm command line interface",
   "engines": {
-    "node": ">=18"
+    "node": "^20.17.0 || >=22.9.0"
   },
   "scripts": {
     "test:e2e": "jest --testMatch \"**/e2e/**/*.test.ts\" --runInBand",
@@ -40,7 +40,7 @@
     "@types/fs-extra": "^11.0.3",
     "@types/jest": "^29.5.12",
     "@types/libnpmsearch": "^2.0.4",
-    "@types/node": "^18.19.31",
+    "@types/node": "^20.19.43",
     "@types/pkginfo": "^0.4.1",
     "@types/promptly": "^3.0.3",
     "@types/request": "^2.48.12",
