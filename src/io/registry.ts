@@ -14,7 +14,6 @@ import {
 } from "./common-errors";
 
 type AllPackuments = Readonly<{
-  // eslint-disable-next-line jsdoc/require-jsdoc
   _updated: number;
   [name: DomainName]: SearchedPackument;
 }>;
