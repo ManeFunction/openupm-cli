@@ -41,7 +41,6 @@
     "@types/jest": "^29.5.12",
     "@types/libnpmsearch": "^2.0.4",
     "@types/node": "^18.19.31",
-    "@types/npm-profile": "^5.0.5",
     "@types/pkginfo": "^0.4.1",
     "@types/promptly": "^3.0.3",
     "@types/request": "^2.48.12",
