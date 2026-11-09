@@ -79,6 +79,8 @@
     "zod": "^3.23.8"
   },
   "overrides": {
-    "test-exclude": "^8.0.0"
+    "test-exclude": "^8.0.0",
+    "glob": "^14.0.4",
+    "minimatch": "^11.0.5"
   }
 }
